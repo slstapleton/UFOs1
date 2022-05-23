@@ -1,3 +1,12 @@
 .m-top-75 {
   margin-top: 75px;
 }
+body {
+
+  color: #f7f7f7;
+}
+.jumbotron {
+  background-image: url("../images/nasa.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+}
